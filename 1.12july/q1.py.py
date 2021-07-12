@@ -1,0 +1,8 @@
+print("Question 1")
+print(" _______________")
+print("|               |")
+print("|               |")
+print("|               |")
+print("|               |")
+print("|               |")
+print(" _______________")
