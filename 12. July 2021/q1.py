@@ -1,6 +1,6 @@
 numbers = input("Enter two numbers, separated by space, you want to operate?: ").split(" ")
-num1 = int(numbers[0])
-num2 = int(numbers[1])
+num1 = float(numbers[0])
+num2 = float(numbers[1])
 
 operator = input("Enter one of the following operators ( +, -, *, /, or %)? ")
 
