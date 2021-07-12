@@ -1,0 +1,11 @@
+print("\n\n\nQUESTION 3")
+print("\nQUESTION 3 part 1. \n")
+ipt1=input("Enter Your Name ")
+ipt2=input("Enter Your father name ")
+print("Hi Your Name is "+ipt1+" and Your Baba Name is "+ipt2)
+
+print("\n\nQUESTION 3 part 2. \n")
+ipt1=input("Enter 1st number ")
+ipt2=input("Enter 2nd number ")
+rlt=int(ipt1)+int(ipt2)
+print("Addition of two integer is "+str(rlt))
