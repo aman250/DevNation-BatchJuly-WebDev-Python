@@ -1,0 +1,6 @@
+print("\n\n\nQUESTION 3")
+print("\nQUESTION 3 part 1. \n")
+ipt1=input("Enter Your Name ")
+ipt2=input("Enter Your father name ")
+print("Hi Your Name is "+ipt1+" and Your Baba Name is "+ipt2)
+ipt1=input("Enter 1st number ")
