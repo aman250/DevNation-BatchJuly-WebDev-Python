@@ -36,3 +36,14 @@ for i in range(-5, 6, 2):
 
 
 # prining reverse pyramid of 1,0
+for i in range(1, 8, 2):
+    # loop to print spaces
+    for j in range(int(i/2)):
+        print(" ", end="")
+    # loop to print 1,0
+    for k in range(8 - i):
+        if k % 2 == 0:
+            print("1", end="")
+        else:
+            print("0", end="")
+    print("")
