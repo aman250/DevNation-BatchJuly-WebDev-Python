@@ -1,5 +1,4 @@
 #Calculate avg
-
 user_quit= " "
 user_list=[]
 sum=0

@@ -17,3 +17,5 @@ if attendance < 75:
 else:
     print('You are allowed to sit in exam')
 
+
+

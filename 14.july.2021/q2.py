@@ -17,7 +17,6 @@ for j in range  (rows-1):
     print(" " * (j+2) + " *"*(rows-1-j))
 
 
-# c
 print('Binary patteren')
 
 rows=4
