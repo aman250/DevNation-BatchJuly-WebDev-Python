@@ -1,0 +1,10 @@
+# write a program to print a square
+print("--------------------------")
+print("|                        |")
+print("|                        |")
+print("|                        |")
+print("|                        |")
+print("|                        |")
+print("|                        |")
+print("|                        |")
+print("--------------------------")
