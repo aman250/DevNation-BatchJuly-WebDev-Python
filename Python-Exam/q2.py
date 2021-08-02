@@ -18,19 +18,19 @@ if operand == '+':
 
 elif operand == '-':
     result = int(first_number) - int(second_number)
-    print("Addion of " + str(first_number) + ' and ' + str(second_number) + ' is ' + str(result))
+    print("Subtraction of " + str(first_number) + ' and ' + str(second_number) + ' is ' + str(result))
 
 elif operand == '*':
     result = int(first_number) * int(second_number)
-    print("Addion of " + str(first_number) + ' and ' + str(second_number) + ' is ' + str(result))
+    print("Multiplication of " + str(first_number) + ' and ' + str(second_number) + ' is ' + str(result))
 
 elif operand == '/':
     result = int(first_number) / int(second_number)
-    print("Addion of " + str(first_number) + ' and ' + str(second_number) + ' is ' + str(result))
+    print("Division of " + str(first_number) + ' and ' + str(second_number) + ' is ' + str(result))
 
 elif operand == '%':
     result = int(first_number) % int(second_number)
-    print("Addion of " + str(first_number) + ' and ' + str(second_number) + ' is ' + str(result))
+    print("Mode of " + str(first_number) + ' and ' + str(second_number) + ' is ' + str(result))
 
 else:
     print('Please enter a valid operand...!')
