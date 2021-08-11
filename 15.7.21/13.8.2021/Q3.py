@@ -1,16 +1,16 @@
-def lst_average(lst):
+def list_average(list):
     avg=0
-    for i in lst:
+    for i in list:
         avg+=i
-    return avg/(len(lst))
+    return avg/(len(list))
 def check_res(avg):
     if avg%2==0:
         return "Even"
     else:
         return "odd"
 
-ist=[3,2,1,4,6,1,2,10]
-avg=lst_average(lst)
+list=[3,2,1,4,6,1,2,10]
+avg=list_average(list)
 print("average of list is" , avg)
 print("the list is" ,check_res(avg))
 
