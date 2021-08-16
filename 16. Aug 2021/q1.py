@@ -1,14 +1,14 @@
-def power(base, power_num):
-    return pow(base, power_num)
+def calc_power(base, power):
+    return pow(base, power)
 
 
 def inputs():
-    global base, power_num
+    global base, power
     base = int(input("Enter the base number? "))
-    power_num = int(input("Enter the power number? "))
+    power = int(input("Enter the power number? "))
 
 
-base, power_num = None, None
+base, power = None, None
 
 inputs()
-print(f"{base}^{power_num} = {power(base, power_num)}")
+print(f"{base}^{power} = {calc_power(base, power)}")
