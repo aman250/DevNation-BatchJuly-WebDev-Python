@@ -13,11 +13,3 @@ print(round(sum(my_list) /
 
 
 
-
-
-
-
-
-
-
-
